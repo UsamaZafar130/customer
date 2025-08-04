@@ -1,0 +1,27 @@
+[02-Aug-2025 14:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:41
+Stack trace:
+#0 /home/frozofun/public_html/products/index.php(3): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 41
+[02-Aug-2025 14:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:40
+Stack trace:
+#0 /home/frozofun/public_html/products/frozofun-beef-seekh-kababs.php(11): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 40
+[02-Aug-2025 14:53:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:40
+Stack trace:
+#0 /home/frozofun/public_html/products/frozofun-malai-boti.php(11): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 40
+[02-Aug-2025 15:01:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:40
+Stack trace:
+#0 /home/frozofun/public_html/products/frozofun-badam-sharbat-1l.php(11): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 40
+[02-Aug-2025 15:04:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:40
+Stack trace:
+#0 /home/frozofun/public_html/products/frozofun-badam-sharbat-1l.php(11): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 40
+[02-Aug-2025 21:16:46 Asia/Karachi] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/frozofun/public_html/includes/init.php:10) in /home/frozofun/public_html/includes/header.php on line 10
+[02-Aug-2025 21:16:50 Asia/Karachi] PHP Fatal error:  Cannot redeclare isLoggedIn() (previously declared in /home/frozofun/public_html/includes/init.php:10) in /home/frozofun/public_html/includes/header.php on line 10

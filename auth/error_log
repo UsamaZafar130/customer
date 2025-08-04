@@ -1,0 +1,13 @@
+[02-Aug-2025 18:19:06 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frozofun/public_html/includes/header.php:106) in /home/frozofun/public_html/auth/login.php on line 30
+[02-Aug-2025 18:24:48 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frozofun/public_html/includes/header.php:102) in /home/frozofun/public_html/auth/login.php on line 30
+[02-Aug-2025 14:14:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:41
+Stack trace:
+#0 /home/frozofun/public_html/auth/login.php(3): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 41
+[02-Aug-2025 14:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function isLoggedIn() in /home/frozofun/public_html/includes/header.php:40
+Stack trace:
+#0 /home/frozofun/public_html/auth/login.php(3): require_once()
+#1 {main}
+  thrown in /home/frozofun/public_html/includes/header.php on line 40
+[02-Aug-2025 21:21:18 Asia/Karachi] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/frozofun/public_html/includes/header.php:109) in /home/frozofun/public_html/auth/login.php on line 30
